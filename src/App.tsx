@@ -39,7 +39,7 @@ const App: React.FC = () => {
       </nav>
 
       <Document
-        file="Ahmed_Ali_M_Soliman_SW_Dev_en_II.pdf"
+        file="ahmedalimsoliman-dev-en.pdf"
         onLoadSuccess={onDocumentLoadSuccess}
       >
         <Page pageNumber={pageNumber} />
